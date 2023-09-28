@@ -4,5 +4,13 @@
 ### Usage
 
 ```
-Put data folder into day_trading_paper folder
+* Put data folder into day_trading_paper folder
+* Use TCEM_SINO_PROD.exe to create Sinopac CA
+  * Put CA file under "C:/sinopac/"
+```
+
+### Note
+
+```
+data/result put optimize result for some prediction_period
 ```
