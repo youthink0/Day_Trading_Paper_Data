@@ -12,5 +12,6 @@
 ### Note
 
 ```
-data/result put optimize result for some prediction_period
+* data/result puts optimized result for some prediction_period
+* result/parameter_setting.py stores the  optimized parameter combination
 ```
