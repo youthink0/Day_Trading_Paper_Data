@@ -1,0 +1,5 @@
+test_accuracy,overall_accuracy,test_f1,overall_f1,test_precision,test_recall,overall_precision,overall_recall,period_param,lag,min
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+0.59,0.72,0.55,0.74,0.51,0.61,0.65,0.85,32.0,0.0,15.0
+0.61,0.74,0.65,0.77,0.51,0.89,0.65,0.95,32.0,32.0,5.0
+0.6,0.6,0.67,0.69,0.51,0.98,0.54,0.97,72.0,0.0,5.0
